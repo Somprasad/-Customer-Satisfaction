@@ -1,7 +1,6 @@
-# -Customer-Satisfaction
+# -Santander Customer-Satisfaction
 The objective of this project is to identify dissatisfied customers early in their relationship with use of machine learning algorithms. 
 Doing so would allow Santander to take proactive steps to improve a customer's happiness before it's too late.
-Solutions from this project will be feed into Kaggle Competition hosted by Santander
 
 ## Data -
 
