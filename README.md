@@ -17,13 +17,13 @@ iii.	sample_submission.csv - a sample submission file in the correct format
 
 This project is built with Amazon Sagemaker instance and we have used following packages in this project
 
-import pandas as pd
-import numpy as np
-import os
-import io
-import matplotlib.pyplot as plt
-import matplotlib
-%matplotlib inline 
-import seaborn as sns
-from sklearn.ensemble import ExtraTreesClassifier
+import pandas as pd\
+import numpy as np\
+import os\
+import io\
+import matplotlib.pyplot as plt\
+import matplotlib\
+%matplotlib inline\
+import seaborn as sns\
+from sklearn.ensemble import ExtraTreesClassifier\
 
